@@ -25,7 +25,11 @@
 2. **Install dependencies**
    ```bash
    npm install
-2. **Run the development server**
+3. **API_KEY from openweathermap**
+   ```bash
+   weather-app/src/hooks/useWeather.js
+   const API_KEY = "";
+4. **Run the development server**
    ```bash
    npm run dev
 ---
